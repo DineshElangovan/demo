@@ -1,14 +1,27 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+   {
+    "name": "bala",
+    "age": "25",
+    "dob": "15.16.1991",
+    "date":"12.12.2017",
+    "venue":"thanjavur",
+    "sex":"male",
+    "Address":"1248,vadust,thanjavur",
+    "history":"found decay on two teeths",
+    "diagonsis":"nil",
+    "treatement":"cleaning"
+  },
+  {
+    "name": "Dinesh",
+    "age": "28",
+    "dob": "15.16.1991",
+    "date":"18.12.2017",
+    "venue":"pondy",
+    "sex":"male",
+    "Address":"1248,vadust,pondy",
+    "history":"nil",
+    "diagonsis":"scan",
+    "treatement":"rootcanal"
   }
-}
+ 
+]
